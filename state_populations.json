@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "state": "alabama",
+    "state_code": "AL",
+    "state_name": "Alabama",
+    "population": 4908921
+  },
+  {
+    "id": 2,
+    "state": "alaska",
+    "state_code": "AK",
+    "state_name": "Alaska",
+    "population": 734002
+  },
+  {
+    "id": 3,
+    "state": "arizona",
+    "state_code": "AZ",
+    "state_name": "Arizona",
+    "population": 7378494
+  },
+  {
+    "id": 4,
+    "state": "arkansas",
+    "state_code": "AR",
+    "state_name": "Arkansas",
+    "population": 3038999
+  },
+  {
+    "id": 5,
+    "state": "california",
+    "state_code": "CA",
+    "state_name": "California",
+    "population": 39937489
+  },
+  {
+    "id": 6,
+    "state": "colorado",
+    "state_code": "CO",
+    "state_name": "Colorado",
+    "population": 5845526
+  },
+  {
+    "id": 7,
+    "state": "connecticut",
+    "state_code": "CT",
+    "state_name": "Connecticut",
+    "population": 3563077
+  },
+  {
+    "id": 8,
+    "state": "delaware",
+    "state_code": "DE",
+    "state_name": "Delaware",
+    "population": 982895
+  },
+  {
+    "id": 9,
+    "state": "district of columbia",
+    "state_code": "DC",
+    "state_name": "District of Columbia",
+    "population": 720687
+  },
+  {
+    "id": 10,
+    "state": "florida",
+    "state_code": "FL",
+    "state_name": "Florida",
+    "population": 21992985
+  },
+  {
+    "id": 11,
+    "state": "georgia",
+    "state_code": "GA",
+    "state_name": "Georgia",
+    "population": 10736059
+  },
+  {
+    "id": 12,
+    "state": "hawaii",
+    "state_code": "HI",
+    "state_name": "Hawaii",
+    "population": 1412687
+  },
+  {
+    "id": 13,
+    "state": "idaho",
+    "state_code": "ID",
+    "state_name": "Idaho",
+    "population": 1826156
+  },
+  {
+    "id": 14,
+    "state": "illinois",
+    "state_code": "IL",
+    "state_name": "Illinois",
+    "population": 12659682
+  },
+  {
+    "id": 15,
+    "state": "indiana",
+    "state_code": "IN",
+    "state_name": "Indiana",
+    "population": 6745354
+  },
+  {
+    "id": 16,
+    "state": "iowa",
+    "state_code": "IA",
+    "state_name": "Iowa",
+    "population": 3179849
+  },
+  {
+    "id": 17,
+    "state": "kansas",
+    "state_code": "KS",
+    "state_name": "Kansas",
+    "population": 2910357
+  },
+  {
+    "id": 18,
+    "state": "kentucky",
+    "state_code": "KY",
+    "state_name": "Kentucky",
+    "population": 4499692
+  },
+  {
+    "id": 19,
+    "state": "louisiana",
+    "state_code": "LA",
+    "state_name": "Louisiana",
+    "population": 4645184
+  },
+  {
+    "id": 20,
+    "state": "maine",
+    "state_code": "ME",
+    "state_name": "Maine",
+    "population": 1345790
+  },
+  {
+    "id": 21,
+    "state": "maryland",
+    "state_code": "MD",
+    "state_name": "Maryland",
+    "population": 6083116
+  },
+  {
+    "id": 22,
+    "state": "massachusetts",
+    "state_code": "MA",
+    "state_name": "Massachusetts",
+    "population": 6976597
+  },
+  {
+    "id": 23,
+    "state": "michigan",
+    "state_code": "MI",
+    "state_name": "Michigan",
+    "population": 10045029
+  },
+  {
+    "id": 24,
+    "state": "minnesota",
+    "state_code": "MN",
+    "state_name": "Minnesota",
+    "population": 5700671
+  },
+  {
+    "id": 25,
+    "state": "mississippi",
+    "state_code": "MS",
+    "state_name": "Mississippi",
+    "population": 2989260
+  },
+  {
+    "id": 26,
+    "state": "missouri",
+    "state_code": "MO",
+    "state_name": "Missouri",
+    "population": 6169270
+  },
+  {
+    "id": 27,
+    "state": "montana",
+    "state_code": "MT",
+    "state_name": "Montana",
+    "population": 1086759
+  },
+  {
+    "id": 28,
+    "state": "nebraska",
+    "state_code": "NE",
+    "state_name": "Nebraska",
+    "population": 1952570
+  },
+  {
+    "id": 29,
+    "state": "nevada",
+    "state_code": "NV",
+    "state_name": "Nevada",
+    "population": 3139658
+  },
+  {
+    "id": 30,
+    "state": "new hampshire",
+    "state_code": "NH",
+    "state_name": "New Hampshire",
+    "population": 1371246
+  },
+  {
+    "id": 31,
+    "state": "new jersey",
+    "state_code": "NJ",
+    "state_name": "New Jersey",
+    "population": 8936574
+  },
+  {
+    "id": 32,
+    "state": "new mexico",
+    "state_code": "NM",
+    "state_name": "New Mexico",
+    "population": 2096640
+  },
+  {
+    "id": 33,
+    "state": "new york",
+    "state_code": "NY",
+    "state_name": "New York",
+    "population": 19440469
+  },
+  {
+    "id": 34,
+    "state": "north carolina",
+    "state_code": "NC",
+    "state_name": "North Carolina",
+    "population": 10611862
+  },
+  {
+    "id": 35,
+    "state": "north dakota",
+    "state_code": "ND",
+    "state_name": "North Dakota",
+    "population": 761723
+  },
+  {
+    "id": 36,
+    "state": "ohio",
+    "state_code": "OH",
+    "state_name": "Ohio",
+    "population": 11747694
+  },
+  {
+    "id": 37,
+    "state": "oklahoma",
+    "state_code": "OK",
+    "state_name": "Oklahoma",
+    "population": 3954821
+  },
+  {
+    "id": 38,
+    "state": "oregon",
+    "state_code": "OR",
+    "state_name": "Oregon",
+    "population": 4301089
+  },
+  {
+    "id": 39,
+    "state": "pennsylvania",
+    "state_code": "PA",
+    "state_name": "Pennsylvania",
+    "population": 12820878
+  },
+  {
+    "id": 40,
+    "state": "puerto rico",
+    "state_code": "PR",
+    "state_name": "Puerto Rico",
+    "population": 3032165
+  },
+  {
+    "id": 41,
+    "state": "rhode island",
+    "state_code": "RI",
+    "state_name": "Rhode Island",
+    "population": 1056161
+  },
+  {
+    "id": 42,
+    "state": "south carolina",
+    "state_code": "SC",
+    "state_name": "South Carolina",
+    "population": 5210095
+  },
+  {
+    "id": 43,
+    "state": "south dakota",
+    "state_code": "SD",
+    "state_name": "South Dakota",
+    "population": 903027
+  },
+  {
+    "id": 44,
+    "state": "tennessee",
+    "state_code": "TN",
+    "state_name": "Tennessee",
+    "population": 6897576
+  },
+  {
+    "id": 45,
+    "state": "texas",
+    "state_code": "TX",
+    "state_name": "Texas",
+    "population": 29472295
+  },
+  {
+    "id": 46,
+    "state": "utah",
+    "state_code": "UT",
+    "state_name": "Utah",
+    "population": 3282115
+  },
+  {
+    "id": 47,
+    "state": "vermont",
+    "state_code": "VT",
+    "state_name": "Vermont",
+    "population": 628061
+  },
+  {
+    "id": 48,
+    "state": "virginia",
+    "state_code": "VA",
+    "state_name": "Virginia",
+    "population": 8626207
+  },
+  {
+    "id": 49,
+    "state": "washington",
+    "state_code": "WA",
+    "state_name": "Washington",
+    "population": 7797095
+  },
+  {
+    "id": 50,
+    "state": "west virginia",
+    "state_code": "WV",
+    "state_name": "West Virginia",
+    "population": 1778070
+  },
+  {
+    "id": 51,
+    "state": "wisconsin",
+    "state_code": "WI",
+    "state_name": "Wisconsin",
+    "population": 5851754
+  },
+  {
+    "id": 52,
+    "state": "wyoming",
+    "state_code": "WY",
+    "state_name": "Wyoming",
+    "population": 567025
+  },
+  {
+    "id": 53,
+    "state": "american samoa",
+    "state_code": "AS",
+    "state_name": "American Samoa",
+    "population": 55689
+  },
+  {
+    "id": 54,
+    "state": "guam",
+    "state_code": "GU",
+    "state_name": "Guam",
+    "population": 162742
+  },
+  {
+    "id": 55,
+    "state": "northern mariana islands",
+    "state_code": "MP",
+    "state_name": "Northern Mariana Islands",
+    "population": 55144
+  },
+  {
+    "id": 56,
+    "state": "us virgin islands",
+    "state_code": "VI",
+    "state_name": "US Virgin Islands",
+    "population": 106405
+  }
+]
