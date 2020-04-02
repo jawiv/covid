@@ -1,0 +1,1 @@
+[{"positive":210770,"negative":939190,"posNeg":1149960,"hospitalized":31142,"death":4700,"total":1149960,"hash":"00e3631c5b0248c1739816d9ef716b3f587871c0","lastModified":"2020-04-02T00:59:11.041Z","notes":"Please stop using the \"total\" and \"posNeg\" fields. Use \"totalTestResults\" instead.","totalTestResults":1149960}]
