@@ -1,0 +1,450 @@
+[
+  {
+    "id": 1,
+    "state": "alabama",
+    "state_code": "AL",
+    "state_name": "Alabama",
+    "beds_all": 5743,
+    "beds_icu": 474
+  },
+  {
+    "id": 2,
+    "state": "alaska",
+    "state_code": "AK",
+    "state_name": "Alaska",
+    "beds_all": 682,
+    "beds_icu": 54
+  },
+  {
+    "id": 3,
+    "state": "arizona",
+    "state_code": "AZ",
+    "state_name": "Arizona",
+    "beds_all": 6017,
+    "beds_icu": 508
+  },
+  {
+    "id": 4,
+    "state": "arkansas",
+    "state_code": "AR",
+    "state_name": "Arkansas",
+    "beds_all": 5005,
+    "beds_icu": 394
+  },
+  {
+    "id": 5,
+    "state": "california",
+    "state_code": "CA",
+    "state_name": "California",
+    "beds_all": 26654,
+    "beds_icu": 1993
+  },
+  {
+    "id": 6,
+    "state": "colorado",
+    "state_code": "CO",
+    "state_name": "Colorado",
+    "beds_all": 4851,
+    "beds_icu": 554
+  },
+  {
+    "id": 7,
+    "state": "connecticut",
+    "state_code": "CT",
+    "state_name": "Connecticut",
+    "beds_all": 1738,
+    "beds_icu": 99
+  },
+  {
+    "id": 8,
+    "state": "delaware",
+    "state_code": "DE",
+    "state_name": "Delaware",
+    "beds_all": 696,
+    "beds_icu": 41
+  },
+  {
+    "id": 9,
+    "state": "district of columbia",
+    "state_code": "DC",
+    "state_name": "District of Columbia",
+    "beds_all": 1093,
+    "beds_icu": 66
+  },
+  {
+    "id": 10,
+    "state": "florida",
+    "state_code": "FL",
+    "state_name": "Florida",
+    "beds_all": 20184,
+    "beds_icu": 1695
+  },
+  {
+    "id": 11,
+    "state": "georgia",
+    "state_code": "GA",
+    "state_name": "Georgia",
+    "beds_all": 8322,
+    "beds_icu": 589
+  },
+  {
+    "id": 12,
+    "state": "hawaii",
+    "state_code": "HI",
+    "state_name": "Hawaii",
+    "beds_all": 956,
+    "beds_icu": 45
+  },
+  {
+    "id": 13,
+    "state": "idaho",
+    "state_code": "ID",
+    "state_name": "Idaho",
+    "beds_all": 1817,
+    "beds_icu": 151
+  },
+  {
+    "id": 14,
+    "state": "illinois",
+    "state_code": "IL",
+    "state_name": "Illinois",
+    "beds_all": 14552,
+    "beds_icu": 1131
+  },
+  {
+    "id": 15,
+    "state": "indiana",
+    "state_code": "IN",
+    "state_name": "Indiana",
+    "beds_all": 8485,
+    "beds_icu": 706
+  },
+  {
+    "id": 16,
+    "state": "iowa",
+    "state_code": "IA",
+    "state_name": "Iowa",
+    "beds_all": 4297,
+    "beds_icu": 246
+  },
+  {
+    "id": 17,
+    "state": "kansas",
+    "state_code": "KS",
+    "state_name": "Kansas",
+    "beds_all": 4810,
+    "beds_icu": 278
+  },
+  {
+    "id": 18,
+    "state": "kentucky",
+    "state_code": "KY",
+    "state_name": "Kentucky",
+    "beds_all": 6210,
+    "beds_icu": 448
+  },
+  {
+    "id": 19,
+    "state": "louisiana",
+    "state_code": "LA",
+    "state_name": "Louisiana",
+    "beds_all": 7204,
+    "beds_icu": 477
+  },
+  {
+    "id": 20,
+    "state": "maine",
+    "state_code": "ME",
+    "state_name": "Maine",
+    "beds_all": 1061,
+    "beds_icu": 64
+  },
+  {
+    "id": 21,
+    "state": "maryland",
+    "state_code": "MD",
+    "state_name": "Maryland",
+    "beds_all": 3961,
+    "beds_icu": 266
+  },
+  {
+    "id": 22,
+    "state": "massachusetts",
+    "state_code": "MA",
+    "state_name": "Massachusetts",
+    "beds_all": 4848,
+    "beds_icu": 277
+  },
+  {
+    "id": 23,
+    "state": "michigan",
+    "state_code": "MI",
+    "state_name": "Michigan",
+    "beds_all": 10154,
+    "beds_icu": 742
+  },
+  {
+    "id": 24,
+    "state": "minnesota",
+    "state_code": "MN",
+    "state_name": "Minnesota",
+    "beds_all": 4983,
+    "beds_icu": 355
+  },
+  {
+    "id": 25,
+    "state": "mississippi",
+    "state_code": "MS",
+    "state_name": "Mississippi",
+    "beds_all": 5733,
+    "beds_icu": 340
+  },
+  {
+    "id": 26,
+    "state": "missouri",
+    "state_code": "MO",
+    "state_name": "Missouri",
+    "beds_all": 7933,
+    "beds_icu": 558
+  },
+  {
+    "id": 27,
+    "state": "montana",
+    "state_code": "MT",
+    "state_name": "Montana",
+    "beds_all": 1669,
+    "beds_icu": 85
+  },
+  {
+    "id": 28,
+    "state": "nebraska",
+    "state_code": "NE",
+    "state_name": "Nebraska",
+    "beds_all": 3130,
+    "beds_icu": 232
+  },
+  {
+    "id": 29,
+    "state": "nevada",
+    "state_code": "NV",
+    "state_name": "Nevada",
+    "beds_all": 2247,
+    "beds_icu": 183
+  },
+  {
+    "id": 30,
+    "state": "new hampshire",
+    "state_code": "NH",
+    "state_name": "New Hampshire",
+    "beds_all": 1018,
+    "beds_icu": 83
+  },
+  {
+    "id": 31,
+    "state": "new jersey",
+    "state_code": "NJ",
+    "state_name": "New Jersey",
+    "beds_all": 7815,
+    "beds_icu": 465
+  },
+  {
+    "id": 32,
+    "state": "new mexico",
+    "state_code": "NM",
+    "state_name": "New Mexico",
+    "beds_all": 1752,
+    "beds_icu": 117
+  },
+  {
+    "id": 33,
+    "state": "new york",
+    "state_code": "NY",
+    "state_name": "New York",
+    "beds_all": 13010,
+    "beds_icu": 718
+  },
+  {
+    "id": 34,
+    "state": "north carolina",
+    "state_code": "NC",
+    "state_name": "North Carolina",
+    "beds_all": 7125,
+    "beds_icu": 567
+  },
+  {
+    "id": 35,
+    "state": "north dakota",
+    "state_code": "ND",
+    "state_name": "North Dakota",
+    "beds_all": 1545,
+    "beds_icu": 86
+  },
+  {
+    "id": 36,
+    "state": "ohio",
+    "state_code": "OH",
+    "state_name": "Ohio",
+    "beds_all": 14290,
+    "beds_icu": 1238
+  },
+  {
+    "id": 37,
+    "state": "oklahoma",
+    "state_code": "OK",
+    "state_name": "Oklahoma",
+    "beds_all": 5457,
+    "beds_icu": 467
+  },
+  {
+    "id": 38,
+    "state": "oregon",
+    "state_code": "OR",
+    "state_name": "Oregon",
+    "beds_all": 2657,
+    "beds_icu": 210
+  },
+  {
+    "id": 39,
+    "state": "pennsylvania",
+    "state_code": "PA",
+    "state_name": "Pennsylvania",
+    "beds_all": 14395,
+    "beds_icu": 1043
+  },
+  {
+    "id": 40,
+    "state": "puerto rico",
+    "state_code": "PR",
+    "state_name": "Puerto Rico",
+    "beds_all": 3032165,
+    "beds_icu": null
+  },
+  {
+    "id": 41,
+    "state": "rhode island",
+    "state_code": "RI",
+    "state_name": "Rhode Island",
+    "beds_all": 795,
+    "beds_icu": 41
+  },
+  {
+    "id": 42,
+    "state": "south carolina",
+    "state_code": "SC",
+    "state_name": "South Carolina",
+    "beds_all": 4679,
+    "beds_icu": 404
+  },
+  {
+    "id": 43,
+    "state": "south dakota",
+    "state_code": "SD",
+    "state_name": "South Dakota",
+    "beds_all": 1805,
+    "beds_icu": 74
+  },
+  {
+    "id": 44,
+    "state": "tennessee",
+    "state_code": "TN",
+    "state_name": "Tennessee",
+    "beds_all": 7812,
+    "beds_icu": 629
+  },
+  {
+    "id": 45,
+    "state": "texas",
+    "state_code": "TX",
+    "state_name": "Texas",
+    "beds_all": 28633,
+    "beds_icu": 2259
+  },
+  {
+    "id": 46,
+    "state": "utah",
+    "state_code": "UT",
+    "state_name": "Utah",
+    "beds_all": 2771,
+    "beds_icu": 170
+  },
+  {
+    "id": 47,
+    "state": "vermont",
+    "state_code": "VT",
+    "state_name": "Vermont",
+    "beds_all": 533,
+    "beds_icu": 34
+  },
+  {
+    "id": 48,
+    "state": "virginia",
+    "state_code": "VA",
+    "state_name": "Virginia",
+    "beds_all": 6581,
+    "beds_icu": 329
+  },
+  {
+    "id": 49,
+    "state": "washington",
+    "state_code": "WA",
+    "state_name": "Washington",
+    "beds_all": 4907,
+    "beds_icu": 341
+  },
+  {
+    "id": 50,
+    "state": "west virginia",
+    "state_code": "WV",
+    "state_name": "West Virginia",
+    "beds_all": 3032,
+    "beds_icu": 196
+  },
+  {
+    "id": 51,
+    "state": "wisconsin",
+    "state_code": "WI",
+    "state_name": "Wisconsin",
+    "beds_all": 5364,
+    "beds_icu": 172
+  },
+  {
+    "id": 52,
+    "state": "wyoming",
+    "state_code": "WY",
+    "state_name": "Wyoming",
+    "beds_all": 1069,
+    "beds_icu": 44
+  },
+  {
+    "id": 53,
+    "state": "american samoa",
+    "state_code": "AS",
+    "state_name": "American Samoa",
+    "beds_all": 55689,
+    "beds_icu": null
+  },
+  {
+    "id": 54,
+    "state": "guam",
+    "state_code": "GU",
+    "state_name": "Guam",
+    "beds_all": 162742,
+    "beds_icu": null
+  },
+  {
+    "id": 55,
+    "state": "northern mariana islands",
+    "state_code": "MP",
+    "state_name": "Northern Mariana Islands",
+    "beds_all": 55144,
+    "beds_icu": null
+  },
+  {
+    "id": 56,
+    "state": "us virgin islands",
+    "state_code": "VI",
+    "state_name": "US Virgin Islands",
+    "beds_all": 106405,
+    "beds_icu": null
+  }
+]
