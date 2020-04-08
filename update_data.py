@@ -4,9 +4,9 @@ import requests
 
 base_url = "https://covidtracking.com/"
 
-for endpoint, file in [("api/states", "states_current.json"),
-                       ("api/states/daily", "states_history.json"),
-                       ("api/us", "us_current.json"),
+for endpoint, file in [("api/v1/states/current.json", "states_current.json"),
+                       ("api/v1/states/daily.json", "states_history.json"),
+                       ("api/v1/us/current.json", "us_current.json"),
                        ("api/us/daily", "us_history.json"),
                       ]:
     url = base_url + endpoint
