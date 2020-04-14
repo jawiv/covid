@@ -11,3 +11,8 @@ Notebooks now use the [Covidtracking](https://covidtracking.com) dataset
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jawiv/covid.git/master)
 
 Future enhancements will remove most of this code to make it easier to get straight to the data and see where to alter the list.
+
+
+Install the qgrid-jupyterlab extension and enable:
+`jupyter labextension install qgrid2`
+[Github: qgrid](https://github.com/quantopian/qgrid)
