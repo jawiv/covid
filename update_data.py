@@ -1,6 +1,7 @@
 #! /usr/bin/python3
 
 import requests
+import git
 
 base_url = "https://covidtracking.com/"
 
@@ -14,3 +15,7 @@ for endpoint, file in [("api/v1/states/current.json", "states_current.json"),
     #j = r.json
     with open(file, 'w') as outfile:
         outfile.write(r.text)
+
+        
+g = git.cmd.Git("../covid-19-data")
+g.pull()
