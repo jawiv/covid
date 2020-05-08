@@ -6,3 +6,5 @@ plotly
 cufflinks
 pivottablejs
 qgrid
+matplotlib
+git
