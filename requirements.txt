@@ -7,4 +7,4 @@ cufflinks
 pivottablejs
 qgrid
 matplotlib
-git
+GitPython
